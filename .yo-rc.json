@@ -1,0 +1,12 @@
+{
+  "generator-ng-fullstack": {
+    "username": "fernandacanto",
+    "appName": "padaria",
+    "stack": "fullstack",
+    "server": "node",
+    "client": "ng1",
+    "transpilerServer": "node",
+    "secure": false,
+    "differentStaticServer": true
+  }
+}
